@@ -1,0 +1,21 @@
+hand_r orient constraint, Driver Hand R
+thumb_01_r orient constraint 2, Thumb Finger FK Ctrl R
+thumb_01_r orient constraint 1, Driver Thumb 01 R
+thumb_02_r orient constraint 2, Thumb Finger FK Ctrl 2 R
+thumb_02_r orient constraint 1, Driver Thumb 02 R
+middle_01_r_orient constraint 1, Driver Middle 01 R
+middle_01_r orient constraint 2, 
+so on and so on
+
+lowerarm_twist_01_r_orient constraint1, Driver Lowerarm Twist 01 R
+lowerarm
+uperarm constraint, Driver Upper arm
+
+fk_lowerarm_r parent constraint, FK elbow r anim
+driver lower arm twist 01 parent, lowerarm r twist anim
+
+fk hand r parent, fk wrist r anim
+
+driver hand r parent, fk hand r = 0/ik hand r
+driver thumb 01 r parent, rig fk thumb 01 r
+so on for all fingers

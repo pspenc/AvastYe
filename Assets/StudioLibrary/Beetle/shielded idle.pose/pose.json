@@ -1,0 +1,1113 @@
+{
+  "metadata": {
+    "ctime": "1550877491", 
+    "version": "1.0.0", 
+    "user": "cfish93", 
+    "mayaSceneFile": "C:/Users/cfish93/Documents/maya/projects/default/scenes/Beetle_Attack01_Shield_001.mb", 
+    "mayaVersion": "2018", 
+    "description": ""
+  }
+,
+  "objects": {
+    "BeetleRig2:ik_foot_anim_r": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear", 
+          "value": -8.988438156498717
+        }, 
+        "translateY": {
+          "type": "doubleLinear", 
+          "value": 22.088551816400038
+        }, 
+        "translateZ": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "stretch": {
+          "type": "double", 
+          "value": 0.0
+        }, 
+        "squash": {
+          "type": "double", 
+          "value": 0.0
+        }, 
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "toeCtrlVis": {
+          "type": "bool", 
+          "value": false
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": -22.149
+        }, 
+        "knee_twist": {
+          "type": "double", 
+          "value": 8.0
+        }, 
+        "stretchBias": {
+          "type": "double", 
+          "value": 0.0
+        }
+      }
+    }, 
+    "BeetleRig2:ik_elbow_l_anim": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear", 
+          "value": -26.201471166101626
+        }, 
+        "translateY": {
+          "type": "doubleLinear", 
+          "value": -73.37057492467613
+        }, 
+        "translateZ": {
+          "type": "doubleLinear", 
+          "value": -45.49277106499261
+        }
+      }
+    }, 
+    "BeetleRig2:index_finger_fk_ctrl_2_l": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateY": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateZ": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": 2.585045159569264
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": 4.726763819604787
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": 16.31114701313985
+        }
+      }
+    }, 
+    "BeetleRig2:root_anim": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateY": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateZ": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }
+      }
+    }, 
+    "BeetleRig2:chest_ik_anim": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateY": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateZ": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "stretch": {
+          "type": "double", 
+          "value": 0.0
+        }, 
+        "squash": {
+          "type": "double", 
+          "value": 0.0
+        }, 
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": -19.760201208948736
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": 6.266227917952698
+        }, 
+        "rotationInfluence": {
+          "type": "double", 
+          "value": 0.25
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": -4.327136218354052
+        }, 
+        "autoSpine": {
+          "type": "double", 
+          "value": 0.0
+        }, 
+        "twist_amount": {
+          "type": "double", 
+          "value": 1.0
+        }
+      }
+    }, 
+    "BeetleRig2:index_finger_fk_ctrl_2_r": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateY": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateZ": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }
+      }
+    }, 
+    "BeetleRig2:ik_wrist_r_anim": {
+      "attrs": {
+        "mid_swivel": {
+          "type": "double", 
+          "value": 0.0
+        }, 
+        "translateX": {
+          "type": "doubleLinear", 
+          "value": 20.033523130062306
+        }, 
+        "translateY": {
+          "type": "doubleLinear", 
+          "value": -35.24109979247869
+        }, 
+        "translateZ": {
+          "type": "doubleLinear", 
+          "value": -29.239563164591274
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": -10.010103755430857
+        }, 
+        "stretch": {
+          "type": "double", 
+          "value": 0.0
+        }, 
+        "squash": {
+          "type": "double", 
+          "value": 0.0
+        }, 
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": -2.3953774183020577
+        }, 
+        "tip_swivel": {
+          "type": "double", 
+          "value": 0.0
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": -11.124865584262011
+        }, 
+        "tip_pivot": {
+          "type": "double", 
+          "value": 0.0
+        }, 
+        "mid_bend": {
+          "type": "double", 
+          "value": 0.0
+        }, 
+        "side": {
+          "type": "double", 
+          "value": 0.0
+        }, 
+        "stretchBias": {
+          "type": "double", 
+          "value": 0.0
+        }
+      }
+    }, 
+    "BeetleRig2:toe_tip_ctrl_r": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }
+      }
+    }, 
+    "BeetleRig2:toe_wiggle_ctrl_l": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }
+      }
+    }, 
+    "BeetleRig2:master_anim": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateY": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateZ": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }
+      }
+    }, 
+    "BeetleRig2:ik_foot_anim_l": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateY": {
+          "type": "doubleLinear", 
+          "value": -26.483141000370843
+        }, 
+        "translateZ": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "stretch": {
+          "type": "double", 
+          "value": 0.0
+        }, 
+        "squash": {
+          "type": "double", 
+          "value": 0.0
+        }, 
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "toeCtrlVis": {
+          "type": "bool", 
+          "value": false
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": 12.767107033667319
+        }, 
+        "knee_twist": {
+          "type": "double", 
+          "value": 10.0
+        }, 
+        "stretchBias": {
+          "type": "double", 
+          "value": 0.0
+        }
+      }
+    }, 
+    "BeetleRig2:middle_finger_fk_ctrl_2_l": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateY": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateZ": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }
+      }
+    }, 
+    "BeetleRig2:middle_finger_fk_ctrl_1_r": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateY": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateZ": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "sticky": {
+          "type": "double", 
+          "value": 0.0
+        }, 
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }
+      }
+    }, 
+    "BeetleRig2:thumb_finger_fk_ctrl_1_l": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateY": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateZ": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "sticky": {
+          "type": "double", 
+          "value": 0.0
+        }, 
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }
+      }
+    }, 
+    "BeetleRig2:hip_anim": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateY": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateZ": {
+          "type": "doubleLinear", 
+          "value": -4.440892098500626e-16
+        }, 
+        "lCalfTwistCtrlVis": {
+          "type": "bool", 
+          "value": false
+        }, 
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": -0.892518231127893
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": -5.522673825948284
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": 10.195751827211089
+        }, 
+        "rCalfTwistCtrlVis": {
+          "type": "bool", 
+          "value": false
+        }, 
+        "autoHips": {
+          "type": "double", 
+          "value": 0.0
+        }
+      }
+    }, 
+    "BeetleRig2:middle_finger_fk_ctrl_2_r": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateY": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateZ": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }
+      }
+    }, 
+    "BeetleRig2:middle_finger_fk_ctrl_1_l": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateY": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateZ": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "sticky": {
+          "type": "double", 
+          "value": 0.0
+        }, 
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }
+      }
+    }, 
+    "BeetleRig2:mid_ik_anim": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateY": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateZ": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }
+      }
+    }, 
+    "BeetleRig2:toe_wiggle_ctrl_r": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }
+      }
+    }, 
+    "BeetleRig2:ik_wrist_l_anim": {
+      "attrs": {
+        "mid_swivel": {
+          "type": "double", 
+          "value": 0.0
+        }, 
+        "translateX": {
+          "type": "doubleLinear", 
+          "value": -110.53304503419767
+        }, 
+        "translateY": {
+          "type": "doubleLinear", 
+          "value": -85.42660548634854
+        }, 
+        "translateZ": {
+          "type": "doubleLinear", 
+          "value": -65.03225265130962
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": 13.801369069939465
+        }, 
+        "stretch": {
+          "type": "double", 
+          "value": 0.0
+        }, 
+        "squash": {
+          "type": "double", 
+          "value": 0.0
+        }, 
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": -110.75537891398044
+        }, 
+        "tip_swivel": {
+          "type": "double", 
+          "value": 0.0
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": -165.15072514705983
+        }, 
+        "tip_pivot": {
+          "type": "double", 
+          "value": 0.0
+        }, 
+        "mid_bend": {
+          "type": "double", 
+          "value": 0.0
+        }, 
+        "side": {
+          "type": "double", 
+          "value": 0.0
+        }, 
+        "stretchBias": {
+          "type": "double", 
+          "value": 0.0
+        }
+      }
+    }, 
+    "BeetleRig2:toe_tip_ctrl_l": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }
+      }
+    }, 
+    "BeetleRig2:thumb_finger_fk_ctrl_1_r": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateY": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateZ": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "sticky": {
+          "type": "double", 
+          "value": 0.0
+        }, 
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }
+      }
+    }, 
+    "BeetleRig2:thumb_finger_fk_ctrl_2_l": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateY": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateZ": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }
+      }
+    }, 
+    "BeetleRig2:clavicle_l_anim": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear", 
+          "value": 0.9212726119614408
+        }, 
+        "translateY": {
+          "type": "doubleLinear", 
+          "value": -11.160679745345247
+        }, 
+        "translateZ": {
+          "type": "doubleLinear", 
+          "value": 1.5445147224295668
+        }, 
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "autoShoulders": {
+          "type": "double", 
+          "value": 0.0
+        }
+      }
+    }, 
+    "BeetleRig2:neck_01_fk_anim": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateY": {
+          "type": "doubleLinear", 
+          "value": -1.4210854715202004e-14
+        }, 
+        "translateZ": {
+          "type": "doubleLinear", 
+          "value": -8.881784197001252e-16
+        }, 
+        "scaleX": {
+          "type": "double", 
+          "value": 0.9999999999999996
+        }, 
+        "scaleY": {
+          "type": "double", 
+          "value": 0.9999999999999996
+        }, 
+        "scaleZ": {
+          "type": "double", 
+          "value": 1.0
+        }, 
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": 5.473850913132956
+        }, 
+        "fkOrientation": {
+          "type": "enum", 
+          "value": 0
+        }
+      }
+    }, 
+    "BeetleRig2:head_fk_anim": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateY": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateZ": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "scaleX": {
+          "type": "double", 
+          "value": 1.0
+        }, 
+        "scaleY": {
+          "type": "double", 
+          "value": 1.0
+        }, 
+        "scaleZ": {
+          "type": "double", 
+          "value": 1.0
+        }, 
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": 9.409285700522988
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": -0.40189259975823605
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": 9.422408954834868
+        }, 
+        "fkOrientation": {
+          "type": "enum", 
+          "value": 0
+        }
+      }
+    }, 
+    "BeetleRig2:heel_ctrl_l": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "heelPivot": {
+          "type": "double", 
+          "value": 0.0
+        }, 
+        "ballPivot": {
+          "type": "double", 
+          "value": 0.0
+        }
+      }
+    }, 
+    "BeetleRig2:index_finger_fk_ctrl_1_r": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateY": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateZ": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "sticky": {
+          "type": "double", 
+          "value": 0.0
+        }, 
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }
+      }
+    }, 
+    "BeetleRig2:heel_ctrl_r": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "heelPivot": {
+          "type": "double", 
+          "value": 0.0
+        }, 
+        "ballPivot": {
+          "type": "double", 
+          "value": 0.0
+        }
+      }
+    }, 
+    "BeetleRig2:body_anim": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear", 
+          "value": -15.87464720489126
+        }, 
+        "translateY": {
+          "type": "doubleLinear", 
+          "value": -9.039634149103836
+        }, 
+        "translateZ": {
+          "type": "doubleLinear", 
+          "value": 1.0658141036401503e-14
+        }, 
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": -12.469279652274633
+        }
+      }
+    }, 
+    "BeetleRig2:clavicle_r_anim": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateY": {
+          "type": "doubleLinear", 
+          "value": 1.9747809109568837
+        }, 
+        "translateZ": {
+          "type": "doubleLinear", 
+          "value": 5.912821169827334
+        }, 
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "autoShoulders": {
+          "type": "double", 
+          "value": 0.0
+        }
+      }
+    }, 
+    "BeetleRig2:ik_elbow_r_anim": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear", 
+          "value": 2.776767075135922
+        }, 
+        "translateY": {
+          "type": "doubleLinear", 
+          "value": -23.420138312555878
+        }, 
+        "translateZ": {
+          "type": "doubleLinear", 
+          "value": 9.209522196938735
+        }
+      }
+    }, 
+    "BeetleRig2:thumb_finger_fk_ctrl_2_r": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateY": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateZ": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }
+      }
+    }, 
+    "BeetleRig2:index_finger_fk_ctrl_1_l": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateY": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateZ": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "sticky": {
+          "type": "double", 
+          "value": 0.0
+        }, 
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }
+      }
+    }, 
+    "BeetleRig2:offset_anim": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateY": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "translateZ": {
+          "type": "doubleLinear", 
+          "value": 0.0
+        }, 
+        "rotateX": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateY": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }, 
+        "rotateZ": {
+          "type": "doubleAngle", 
+          "value": 0.0
+        }
+      }
+    }
+  }
+}

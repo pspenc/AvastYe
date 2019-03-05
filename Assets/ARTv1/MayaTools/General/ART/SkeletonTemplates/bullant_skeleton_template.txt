@@ -204,7 +204,7 @@ aF0.16862745098039217
 aF0.16862745098039217
 aasS'leftLegIncludeBallJoint_CB'
 p81
-I00
+I01
 sS'rightHandOptions_numRingBones'
 p82
 (lp83
